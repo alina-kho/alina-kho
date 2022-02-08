@@ -26,6 +26,7 @@ I am **Alina**, a student at HackYourFuture Denmark and **an aspiring web-develo
 alina.khorolskaya0@gmail.com
 
 
+
 <!---
 alina-kho/alina-kho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
