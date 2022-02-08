@@ -2,7 +2,7 @@
 
 I am **Alina**, a student at HackYourFuture Denmark and **an aspiring web-developer** currently based in Aalborg 🇩🇰
 
-✨ My passion is front-end development together with UX UI. Basically I just love making websites beautiful and user-friendly.
+✨ My passion is front-end development together with UX UI. Basically I just love making web-apps beautiful and user-friendly.
 
 📚 Currently I am studying JavaScript, soon starting Node.js and React.
 
