@@ -11,8 +11,8 @@ I am **Alina**, a student at HackYourFuture Denmark and **an aspiring web-develo
 ✅ Responsive Design <br>
 ✅ Sass (still in progress ▰▰▰▰▰▰▱▱▱▱▱▱ 50%) <br>
 ✅ Git <br>
-✅ JavaScript (stil in progress 	▰▰▰▰▰▰▰▰▱▱ 80%) <br>
-✅ SQLite <br>
+✅ JavaScript <br>
+✅ MySQL <br>
 ✅ Python for data analysis <br>
 ✅ Adobe XD <br>
 ✅ Figma <br>
