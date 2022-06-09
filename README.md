@@ -1,10 +1,10 @@
 ### Hi there 👋🏼
 
-I am **Alina**, a student at HackYourFuture Denmark and **an aspiring web-developer** currently based in Aalborg 🇩🇰
+I am **Alina**, a student at HackYourFuture Denmark and a software developer intern at PeekEmbrace.
 
 ✨ My passion is front-end development together with UX UI. Basically I just love making web-apps beautiful and user-friendly.
 
-📚 Currently I am studying React.
+📚 Currently I am studying TypeScript.
 
 ### My skills for now include:<br>
 ✅ HTML/CSS <br>
