@@ -27,6 +27,7 @@ I am **Alina**, a student at HackYourFuture Denmark and a software developer int
 
 alina.khorolskaya0@gmail.com
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alina-kho&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alina-kho&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
