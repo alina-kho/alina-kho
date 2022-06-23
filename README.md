@@ -28,6 +28,9 @@ I am **Alina**, a student at HackYourFuture Denmark and a software developer int
 alina.khorolskaya0@gmail.com
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alina-kho&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!---
 alina-kho/alina-kho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
