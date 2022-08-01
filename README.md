@@ -7,12 +7,11 @@ I am **Alina**, a student at HackYourFuture Denmark and a software developer int
 📚 Currently I am studying TypeScript.
 
 ### My skills for now include:<br>
-✅ HTML/CSS <br>
+✅ HTML/CSS/Sass <br>
 ✅ Responsive Design <br>
-✅ Sass (still in progress ▰▰▰▰▰▰▱▱▱▱▱▱ 50%) <br>
 ✅ Git <br>
-✅ JavaScript <br>
-✅ React (in progress) <br>
+✅ JavaScript | TypeScript <br>
+✅ React <br>
 ✅ Node.js <br>
 ✅ MySQL <br>
 ✅ Python for data analysis <br>
