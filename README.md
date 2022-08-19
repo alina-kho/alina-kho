@@ -28,8 +28,6 @@ alina.khorolskaya0@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alina-kho&count_private=true&show_icons=true&hide=issues,contribs)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alina-kho&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 <!---
