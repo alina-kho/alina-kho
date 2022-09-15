@@ -1,25 +1,23 @@
 ### Hi there 👋🏼
 
-I am **Alina**, a web-developer beased in Aalborg now working as a software developer intern at PeekEmbrace.
+I am **Alina**, a web-developer based in Aalborg.
 
 ✨ My passion is front-end development together with UX UI. Basically I just love making web-apps beautiful and user-friendly.
 
 📚 Currently I am studying TypeScript.
 
 ### My skills for now include:<br>
-✅ HTML/CSS/Sass <br>
+✅ HTML/CSS | Sass | Tailwind CSS | MUI <br>
 ✅ Responsive Design <br>
-✅ Git <br>
 ✅ JavaScript | TypeScript <br>
 ✅ React <br>
-✅ Node.js <br>
-✅ MySQL <br>
+✅ Node.js | Express.js | Knex <br>
+✅ MySQL | MongoDB <br>
+✅ Git | Docker | Jira <br>
 ✅ Python for data analysis <br>
-✅ Adobe XD <br>
-✅ Figma <br>
-✅ Prototyping <br>
+✅ Adobe XD | Figma | Prototyping <br>
 
-💞️ I’m looking to collaborate on front-end projects for either web or mobile. Looking forward to applying my skills on real projects!
+💞️ I’m looking to collaborate on front-end projects for either web or mobile as well as freelance projects and/or full-time positions.
 
 
 📫 How to reach me:
