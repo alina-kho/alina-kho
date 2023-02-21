@@ -1,10 +1,8 @@
 ### Hi there 👋🏼
 
-I am **Alina**, a web-developer based in Aalborg.
+I am **Alina**, a web-developer based in Aalborg. Currently I am working as a frontend engineer at Elsevier.
 
 ✨ My passion is front-end development together with UX UI. Basically I just love making web-apps beautiful and user-friendly.
-
-📚 Currently I am studying TypeScript.
 
 ### My skills for now include:<br>
 ✅ HTML/CSS | Sass | Tailwind CSS | MUI <br>
@@ -16,8 +14,6 @@ I am **Alina**, a web-developer based in Aalborg.
 ✅ Git | Docker | Jira <br>
 ✅ Python for data analysis <br>
 ✅ Adobe XD | Figma | Prototyping <br>
-
-💞️ I’m looking to collaborate on front-end projects for either web or mobile as well as freelance projects and/or full-time positions.
 
 
 📫 How to reach me:
